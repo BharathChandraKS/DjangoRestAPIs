@@ -36,15 +36,24 @@ Below are the APIs that can be accessed:
 APIs can be accessed on "http://127.0.0.1:8000" or depending on where the service is running with the below extentions.
 
 1. Company Details
+
+```
    /company/
    /company/1/
+```
 
 2. People Details
+
+```
    /people/
    /people/1/
+```
 
 3. Given 2 people display details of the 2 people and common friends who are alive and have brown eyes.
+
+```
    /commonfriends/21/43/
+```
 
 ### Test
 
