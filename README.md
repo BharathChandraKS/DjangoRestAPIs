@@ -36,13 +36,15 @@ Below are the APIs that can be accessed:
 APIs can be accessed on "http://127.0.0.1:8000" or depending on where the service is running with the below extentions.
 
 1. Company Details
+   This returns the list of all employees for a given company.
 
 ```
    /company/
    /company/1/
 ```
 
-2. People Details
+2. People Details.
+   This also provides the list of fruits and vegitables per person.
 
 ```
    /people/
